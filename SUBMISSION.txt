@@ -1,0 +1,50 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : boudreaujace19
+ Repository     : https://github.com/boudreaujace19/Assignment1
+ Commit         : 5aad227  Initial commit
+ Commit author  : Jace Boudreau
+ Generated      : 2026-09-28 17:01:59
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-09-28 17:01:59   Jace Boudreau
+======================================================================
+ [PASS] Python is installed                        3.14.7
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   5 new lines of output
+ [PASS] Git is installed                           git version 2.55.0.windows.5
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/boudreaujace19/Assignment1
+ [PASS] Your commit is pushed to GitHub            5aad227
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+
+
+  JJJJJ   AAAAA   CCCCC  EEEEE
+    J    A     A C     C E
+    J    AAAAAAA C       EEEE
+J   J    A     A C     C E
+ JJJ     A     A  CCCCC  EEEEE
+======================================================================
